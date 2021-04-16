@@ -19,5 +19,10 @@ public class RestAPITest {
 	public void RestAPI_logged() {
 		System.out.println("RestAPI logged");
 	}
+	
+	@Test
+	public void RestAPI_loggedinto_homepage() {
+		System.out.println("RestAPI logged into home page");
+	}
 
 }
