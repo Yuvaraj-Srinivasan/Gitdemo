@@ -11,6 +11,8 @@ public class AppiumTest {
 	@Test
 	public void Appium_logged() {
 		System.out.println("Appium logged");
+		System.out.println("Appium into home page");
+	
 	}
 
 }
